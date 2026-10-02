@@ -894,3 +894,27 @@ main {
 .cta-final {
     margin-top: 100px !important;
 }
+.cta-final {
+    width: 100%;
+    max-width: 100%;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    box-sizing: border-box;
+}
+
+.cta-final h2 {
+    font-size: 46px !important;
+    line-height: 1.05 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.cta-texto {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+}

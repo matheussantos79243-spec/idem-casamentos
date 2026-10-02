@@ -903,11 +903,12 @@ main {
 }
 
 .cta-final h2 {
-    font-size: 46px !important;
-    line-height: 1.05 !important;
+    font-size: 36px !important;
+    line-height: 1.1 !important;
     width: 100% !important;
     max-width: 100% !important;
-    overflow-wrap: break-word;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
     text-align: center;
 }
 

@@ -861,6 +861,9 @@ main {
 @media (max-width: 768px) {
 
     /* Espaço entre os vídeos e a imagem final */
+    .galeria-videos {
+    margin-bottom: 120px !important;
+}
     /* Evita conteúdo escapando da tela */
     .footer {
         width: 100%;

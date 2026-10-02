@@ -861,10 +861,10 @@ main {
 @media (max-width: 768px) {
 
     /* Espaço entre os vídeos e a imagem final */
-    .cta-final {
-        margin-top: 140px !important;
-                    
-    }
+   .cta-final {
+    margin-top: 0 !important;
+    transform: translateY(120px);
+}
 
     /* Evita conteúdo escapando da tela */
     .footer {

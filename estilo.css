@@ -892,9 +892,6 @@ main {
 }
 /* ESPAÇO ENTRE OS VÍDEOS E O CTA FINAL */
 .cta-final {
-    margin-top: 100px !important;
-}
-.cta-final {
     width: 100%;
     max-width: 100%;
     padding-left: 20px !important;

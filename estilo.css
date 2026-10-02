@@ -861,8 +861,8 @@ main {
 @media (max-width: 768px) {
 
     /* Espaço entre os vídeos e a imagem final */
-    .galeria-videos {
-    margin-bottom: 120px !important;
+    .galeria-videos + .cta-final {
+    margin-top: 120px !important;
 }
     /* Evita conteúdo escapando da tela */
     .footer {
